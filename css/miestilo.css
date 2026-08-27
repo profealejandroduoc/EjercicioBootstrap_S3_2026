@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    background-image: url(../img/fondo.jpg);
+}
+
+@font-face {
+    font-family: 'Prevalent';
+    src: url('../fonts/Prevalent Demo.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    /*font-display: swap;*/
+}
+
+.marca{
+    font-family: 'Prevalent';
+    font-size: 30px;
+    color:khaki;
+}
